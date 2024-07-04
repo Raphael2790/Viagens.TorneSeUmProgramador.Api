@@ -1,0 +1,6 @@
+@Viagens.TorneSeUmProgramador.Api_HostAddress = http://localhost:5063
+
+GET {{Viagens.TorneSeUmProgramador.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
